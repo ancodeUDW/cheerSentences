@@ -11,7 +11,11 @@ import {
 
 let {RouteConfigs, NavigatorConfig} = navParamCreatorService.createParam();
 
+console.log("route configs la la", {RouteConfigs, NavigatorConfig})
+
 const CherioNavigator = createDrawerNavigator(RouteConfigs, NavigatorConfig);
+
+// const CherioNavigator = (<Text>hola</Text>)
 
 
 export default createAppContainer(CherioNavigator);

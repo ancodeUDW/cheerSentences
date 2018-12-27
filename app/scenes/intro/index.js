@@ -22,6 +22,10 @@ const StyledTouchableOpacity = styled.TouchableOpacity`
   align-items: center;
 `;
 
+const StyledText = styled.Text`
+  font-size: 40px;
+  color: red;
+`;
 const StyledLogo = styled.Image`
   width: 60%;
   height: 101px;
@@ -46,7 +50,7 @@ const StyledLogo = styled.Image`
  * @returns {{new(*=): IntroScene, prototype: IntroScene}}
  * @constructor
  */
-const HOCIntro = R.curry((specs) => {
+const HOCIntro = (specs) => {
     let {waitTime, mascot, logo, mascotAniTime, nextScene, background} = specs;
     waitTime        = R.defaultTo(3000, waitTime); // in ms
     mascotAniTime   = R.defaultTo([1000], mascotAniTime); // in ms
@@ -106,6 +110,6 @@ const HOCIntro = R.curry((specs) => {
             // return navigation.navigate(nextScene);
         };
     }
-});
+};
 
 export default HOCIntro;

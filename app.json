@@ -10,9 +10,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./app/theme/multimedia/jsonAssets/icons/android.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./app/theme/multimedia/jsonAssets/background.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app.json" line="12" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/app/index.js" line="13" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="711e9a07-5564-4d22-a9a7-d4359acb73b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/AnimateImages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ImgBackground/components/Background/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ImgBackground/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/scenes/about/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/scenes/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/scenes/intro/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/scenes/sentences/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/AnimateImages/components/AnimateImageList/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/theme/config/advertisement.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/theme/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deprecated/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/theme/multimedia/jsonAssets/background.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/AnimateImages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/AnimateImages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scenes/intro/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scenes/intro/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,18 +25,105 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <splitter split-orientation="vertical" split-proportion="0.43964562">
+            <split-first>
+              <leaf>
+                <file pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/app/index.js">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state>
+                        <caret column="25" selection-start-column="25" selection-end-column="25" />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/index.js">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="84">
+                        <caret line="4" selection-start-line="4" selection-end-line="4" />
+                        <folding>
+                          <element signature="e#0#26#0" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/components/AnimateImageList/index.js">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="903">
+                        <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+                        <folding>
+                          <element signature="e#0#26#0" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-first>
+            <split-second>
+              <leaf>
+                <file pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="63">
+                        <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+                        <folding>
+                          <element signature="e#0#27#0" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file pinned="false" current-in-tab="false">
+                  <entry file="file://$PROJECT_DIR$/App.js">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="105">
+                        <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+                <file pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/app/theme/index.js">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="294">
+                        <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+                        <folding>
+                          <element signature="e#0#32#0" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-second>
+          </splitter>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1105320021">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="28" />
-          <entry key="json" value="9" />
+          <entry key="AnimateImageList" value="1" />
+          <entry key="js" value="52" />
+          <entry key="json" value="11" />
           <entry key="md" value="1" />
           <entry key="png" value="5" />
         </counts>
@@ -50,78 +131,40 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="5" />
-          <entry key="JSON" value="9" />
-          <entry key="JavaScript" value="28" />
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="52" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="9835" />
-          <entry key="json" value="95" />
+          <entry key="js" value="10307" />
+          <entry key="json" value="193" />
           <entry key="md" value="2503" />
-          <entry key="txt" value="14" />
+          <entry key="txt" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="95" />
-          <entry key="JavaScript" value="9834" />
-          <entry key="Less" value="1" />
+          <entry key="JSON" value="193" />
+          <entry key="JavaScript" value="10298" />
+          <entry key="Less" value="9" />
           <entry key="Markdown" value="2503" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="93" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/theme/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scenes/intro/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="295">
+              <caret line="100" column="13" lean-forward="true" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="145" column="48" selection-start-line="145" selection-start-column="48" selection-end-line="145" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,7 +176,6 @@
     <findStrings>
       <find>goToChatScreen</find>
       <find>const scenes =</find>
-      <find>AnimateTwoImages</find>
       <find>el</find>
       <find>AbsolutePosView</find>
       <find>goToAbout</find>
@@ -145,6 +187,10 @@
       <find>ImgBAckground</find>
       <find>GradientBackground</find>
       <find>address</find>
+      <find>\</find>
+      <find>animate images</find>
+      <find>IntroScreen</find>
+      <find>AnimateTwoImages</find>
     </findStrings>
     <replaceStrings>
       <replace>goToNextScreen</replace>
@@ -154,7 +200,12 @@
       <replace>ImgBackground</replace>
       <replace>myFrameLength</replace>
       <replace>route</replace>
+      <replace>AnimateImageList</replace>
+      <replace>/</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\proyectos\react-native\cheerio_kernel\app</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -171,13 +222,15 @@
         <option value="$PROJECT_DIR$/app/theme/config/advertisement.js" />
         <option value="$PROJECT_DIR$/app/components/GradientBackground/index.js" />
         <option value="$PROJECT_DIR$/app/components/GradientBackground/components/Background/index.js" />
-        <option value="$PROJECT_DIR$/app/theme/index.js" />
         <option value="$PROJECT_DIR$/app/components/ImgBackground/components/Background/index.js" />
-        <option value="$PROJECT_DIR$/app/scenes/intro/index.js" />
         <option value="$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js" />
-        <option value="$PROJECT_DIR$/app/index.js" />
         <option value="$PROJECT_DIR$/app/components/ImgBackground/index.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/app/index.js" />
+        <option value="$PROJECT_DIR$/app/components/AnimateImages/components/AnimateImageList/index.js" />
         <option value="$PROJECT_DIR$/app/components/AnimateImages/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/intro/index.js" />
+        <option value="$PROJECT_DIR$/app/theme/index.js" />
       </list>
     </option>
   </component>
@@ -199,10 +252,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1086" />
+    <option name="y" value="127" />
+    <option name="width" value="1918" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -226,26 +279,6 @@
               <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="AnimateImages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="ImgBackground" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="scenes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,21 +291,7 @@
             <path>
               <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="multimedia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="deprecated" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,16 +306,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\theme\multimedia\icons" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\components\AnimateImages\components\AnimateImageList" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\theme\jsonAssets" />
       <recent name="C:\proyectos\react-native\cheerio_kernel\app\components\GradientBackground\components" />
       <recent name="C:\proyectos\react-native\cheerio_kernel\app\components" />
       <recent name="C:\proyectos\react-native\cheerio_kernel\app" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\example" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\scenes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\theme\multimedia" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\theme\jsonAssets" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\theme\multimedia\icons" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,7 +342,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545321866416</updated>
-      <workItem from="1545321867540" duration="21109000" />
+      <workItem from="1545321867540" duration="21769000" />
+      <workItem from="1545575374005" duration="11000" />
+      <workItem from="1545927960126" duration="4245000" />
     </task>
     <task id="LOCAL-00001" summary="Added a ReadMe">
       <created>1545324207890</created>
@@ -330,24 +353,27 @@
       <option name="project" value="LOCAL" />
       <updated>1545324207890</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Started with the abstraction. It throws an error, so is not yet working">
+      <created>1545354593313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545354593313</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21109000" />
+    <option name="totallyTimeSpent" value="26025000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1072" y="9" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13119073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19546892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.16594361" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -355,6 +381,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3546638" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,12 +398,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a ReadMe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a ReadMe" />
+    <MESSAGE value="Started with the abstraction. It throws an error, so is not yet working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started with the abstraction. It throws an error, so is not yet working" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/splash.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/splash.png" />
     <entry file="file://$PROJECT_DIR$/app/theme/sentences/quotes.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -402,23 +431,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icon.png" />
     <entry file="file://$PROJECT_DIR$/app/theme/multimedia/images/startScreen/face1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/theme/multimedia/images/startScreen/logo.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scenes/about/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scenes/config/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deprecated/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -453,9 +471,6 @@
     <entry file="file://$PROJECT_DIR$/app/scenes/sentences/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/theme/multimedia/images/common/background.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -463,6 +478,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/ImgBackground/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/components/AnimateImageList.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scenes/config/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scenes/about/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -471,61 +539,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/components/AnimateImageList/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/ImgBackground/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/theme/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js">
+    <entry file="file://$PROJECT_DIR$/app/theme/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="294">
+          <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scenes/intro/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="295">
+          <caret line="100" column="13" lean-forward="true" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="145" column="48" selection-start-line="145" selection-start-column="48" selection-end-line="145" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
