@@ -1,11 +1,15 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React         from 'react';
 import CheerioKernel from './app/index.js'
+import {Provider}    from 'react-redux';
+import {store}       from './app/store';
+
 
 export default class App extends React.Component {
     render() {
         return (
-            <CheerioKernel/>
+            <Provider store={ store }>
+                <CheerioKernel/>
+            </Provider>
         );
     }
 }

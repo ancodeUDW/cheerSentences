@@ -107,7 +107,7 @@ const HOCIntro = (specs) => {
          */
         goToNextScreen = () => {
             let {navigation} = this.props;
-            // return navigation.navigate(nextScene);
+            return navigation.navigate(nextScene);
         };
     }
 };
