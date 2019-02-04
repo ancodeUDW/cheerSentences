@@ -4,7 +4,7 @@ import styled               from "styled-components";
 
 import { Button, StyleSheet, Text, View, Image, TouchableOpacity, StatusBar  } from 'react-native';
 
-import ConvoScreen from 'app/components/ConvoScreen';
+import ConvoScreen from 'app/components/ConvoScreen/index';
 
 const GREY_PANEL_MARGINS = 25;
 
@@ -27,7 +27,7 @@ const GREY_PANEL_MARGINS = 25;
  * @returns {{new(*=): StartScene, prototype: StartScene}}
  * @constructor
  */
-const HOCStart = (specs) => {
+const HOCSentences = (specs) => {
     let {sentence, setnenceSources, mascot, mascotAniTime, background} = specs;
 
     // sentence is prioritary, if not, we use sentenceSources
@@ -58,4 +58,4 @@ const HOCStart = (specs) => {
     }
 };
 
-export default HOCStart;
+export default HOCSentences;

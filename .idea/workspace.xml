@@ -2,31 +2,63 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/app.json" line="12" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/deprecated/startOver/store/reducer/sentenceState/index.js" line="39" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711e9a07-5564-4d22-a9a7-d4359acb73b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/ConvoScreen/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/adBanner/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/scenes/start/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/actions/appState/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/actions/sentenceState/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/constants/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/reducer/appState/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/reducer/appState/selectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/reducer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/reducer/sentenceState/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/theme/config/advertisement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/theme/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/theme/multimedia/jsonAssets/background.png" afterDir="false" />
+    <list default="true" id="711e9a07-5564-4d22-a9a7-d4359acb73b6" name="Default Changelist" comment="Integration with redux. To discuss if this is the best approach">
+      <change afterPath="$PROJECT_DIR$/app/components/ImageButton/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/NavigationBlock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scenes/sentences/components/HOCSentences/components/ConvoScreen/components/ButtonPart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scenes/sentences/components/HOCSentences/components/ConvoScreen/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scenes/sentences/components/HOCSentences/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scenes/sentences/routing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/store/reducer/sentenceState/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/utils/navigatorParamCreator/utils/createSecondaryRoutingValues.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/about/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/intro/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/sentences/components/HOCSentences/components/ConvoScreen/components/ButtonPart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/sentences/components/HOCSentences/components/ConvoScreen/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/sentences/components/HOCSentences/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/sentences/deprecated/start/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/sentences/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/scenes/sentences/routing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/actions/appState/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/actions/sentenceState/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/reducer/appState/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/reducer/appState/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/reducer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/reducer/sentenceState/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated/startOver/store/reducer/sentenceState/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/AnimateImages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/AnimateImages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/ConvoScreen/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/ConvoScreen/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/ImgBackground/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/ImgBackground/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/adBanner/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/adBanner/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scenes/about/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/constants/scenes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scenes/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/utils/getInitialStoreState/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scenes/intro/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scenes/intro/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scenes/sentences/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scenes/sentences/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scenes/start/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scenes/sentences/deprecated/start/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/actions/appState/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/actions/appState/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/actions/sentenceState/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/actions/sentenceState/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/reducer/appState/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/reducer/appState/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/reducer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/reducer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/store/reducer/sentenceState/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/store/reducer/sentenceState/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/theme/config/advertisement.js" beforeDir="false" afterPath="$PROJECT_DIR$/theme/config/advertisement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/theme/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/theme/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/theme/multimedia/jsonAssets/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/theme/multimedia/jsonAssets/background.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,73 +69,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/app/theme/index.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="168">
-                    <caret line="16" column="21" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="21" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/app/store/actions/appState/index.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="231">
-                    <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-                    <folding>
-                      <element signature="e#0#91#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/app/store/constants/index.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="267">
-                    <caret line="15" column="18" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="18" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/app/store/reducer/appState/index.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state>
-                    <caret selection-end-line="12" selection-end-column="43" />
-                    <folding>
-                      <element signature="e#0#49#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1105320021">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="AnimateImageList" value="1" />
-          <entry key="js" value="103" />
-          <entry key="json" value="11" />
+          <entry key="js" value="196" />
+          <entry key="json" value="13" />
           <entry key="md" value="1" />
           <entry key="png" value="5" />
         </counts>
@@ -111,61 +92,84 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="5" />
-          <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="100" />
+          <entry key="JSON" value="13" />
+          <entry key="JavaScript" value="193" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="16744" />
-          <entry key="json" value="193" />
+          <entry key="js" value="26452" />
+          <entry key="json" value="203" />
           <entry key="md" value="2503" />
-          <entry key="txt" value="133" />
+          <entry key="txt" value="203" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="193" />
-          <entry key="JavaScript" value="16735" />
+          <entry key="JSON" value="203" />
+          <entry key="JavaScript" value="26443" />
           <entry key="Less" value="9" />
           <entry key="Markdown" value="2503" />
-          <entry key="PLAIN_TEXT" value="133" />
+          <entry key="PLAIN_TEXT" value="203" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/store/actions/sentenceState/index.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="1260">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
               <folding>
-                <element signature="e#0#91#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/store/actions/index.js">
+        <entry file="file://$PROJECT_DIR$/app/constants/scenes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/store/reducer/sentenceState/index.js">
+        <entry file="file://$PROJECT_DIR$/app/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            <state relative-caret-position="126">
+              <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
               <folding>
-                <element signature="e#0#49#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/store/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="11" column="42" selection-start-line="11" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,27 +177,16 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>address</find>
-      <find>\</find>
-      <find>animate images</find>
-      <find>IntroScreen</find>
-      <find>HOCIntro</find>
-      <find>processRoutingButtons</find>
-      <find>addDelayBanner</find>
-      <find>AnimateTwoImages</find>
-      <find>ImgBackground</find>
-      <find>ComicPanel</find>
-      <find>NavigationPanel</find>
-      <find>imageButton</find>
-      <find>(){</find>
-      <find>imageStyle</find>
-      <find>AnimatedChar</find>
-      <find>state</find>
-      <find>isMonted</find>
       <find>adBlock</find>
-      <find>.</find>
       <find>connect</find>
       <find>navigatorPanelCreator</find>
       <find>SET_ADMOB_CODE_TEST</find>
@@ -205,6 +198,24 @@
       <find>ADD</find>
       <find>set</find>
       <find>Ballon</find>
+      <find>.</find>
+      <find>setBalloon</find>
+      <find>addSentence</find>
+      <find>R.assoc(sentenceId, mascot)</find>
+      <find>store</find>
+      <find>addSentenceHandler</find>
+      <find>getRoutingPath</find>
+      <find>storeSentenceInfo</find>
+      <find>get</find>
+      <find>Start</find>
+      <find>ConvoScreen</find>
+      <find>ImgBackground</find>
+      <find>HOCStart</find>
+      <find>processRoutingButtons</find>
+      <find>app/theme</find>
+      <find>INTRO</find>
+      <find>SENTENCE</find>
+      <find>startOver</find>
     </findStrings>
     <replaceStrings>
       <replace>goToNextScreen</replace>
@@ -228,6 +239,10 @@
       <replace>add</replace>
       <replace>del</replace>
       <replace>balloon</replace>
+      <replace>addElement(mascot)</replace>
+      <replace>Sentences</replace>
+      <replace>ButtonPart</replace>
+      <replace>HOCSentences</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\proyectos\react-native\cheerio_kernel\app</dir>
@@ -240,7 +255,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/theme/index.js" />
         <option value="$PROJECT_DIR$/app/theme/sentences/cheers.json" />
         <option value="$PROJECT_DIR$/app/theme/sentences/jokes.json" />
         <option value="$PROJECT_DIR$/app/theme/sentences/quotes.json" />
@@ -252,23 +266,41 @@
         <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/app/components/AnimateImages/components/AnimateImageList/index.js" />
         <option value="$PROJECT_DIR$/app/components/AnimateImages/index.js" />
-        <option value="$PROJECT_DIR$/app/scenes/intro/index.js" />
         <option value="$PROJECT_DIR$/app/scenes/start/index.js" />
-        <option value="$PROJECT_DIR$/app/components/ConvoScreen/index.js" />
-        <option value="$PROJECT_DIR$/app/store/reducer/index.js" />
-        <option value="$PROJECT_DIR$/app/store/index.js" />
-        <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/app/store/reducer/appState/selectors.js" />
-        <option value="$PROJECT_DIR$/app/theme/index.js" />
-        <option value="$PROJECT_DIR$/app/components/adBanner/index.js" />
         <option value="$PROJECT_DIR$/app/store/reducer/appState/index.js" />
-        <option value="$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js" />
-        <option value="$PROJECT_DIR$/app/index.js" />
-        <option value="$PROJECT_DIR$/app/store/constants/index.js" />
-        <option value="$PROJECT_DIR$/app/store/actions/appState/index.js" />
-        <option value="$PROJECT_DIR$/app/store/actions/sentenceState/index.js" />
         <option value="$PROJECT_DIR$/app/store/actions/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/sentences/start/index.js" />
+        <option value="$PROJECT_DIR$/app/utils/navigatorParamCreator/deprecated/index.js" />
+        <option value="$PROJECT_DIR$/app/store/reducer/index.js" />
+        <option value="$PROJECT_DIR$/app/store/reducer/sentenceState/selectors.js" />
+        <option value="$PROJECT_DIR$/app/store/constants/index.js" />
+        <option value="$PROJECT_DIR$/app/store/actions/sentenceState/index.js" />
+        <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/app/store/reducer/sentenceState/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/sentences/components/HOCSentences/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/sentences/components/HOCSentences/components/ConvoScreen/components/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/sentences/components/HOCSentences/components/ConvoScreen/components/ButtonPart/index.js" />
+        <option value="$PROJECT_DIR$/app/theme/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/sentences/components/HOCSentences/components/ConvoScreen/index.js" />
+        <option value="$PROJECT_DIR$/app/components/NavigationBlock/index.js" />
+        <option value="$PROJECT_DIR$/app/components/ConvoScreen/index.js" />
+        <option value="$PROJECT_DIR$/app/startOver/utils/navigatorParamCreator/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/intro/index.js" />
+        <option value="$PROJECT_DIR$/app/scenes/sentences/routing.js" />
+        <option value="$PROJECT_DIR$/app/utils/index.js" />
+        <option value="$PROJECT_DIR$/app/store/actions/appState/index.js" />
+        <option value="$PROJECT_DIR$/app/utils/navigatorParamCreator/utils/getInitialStoreState.js" />
+        <option value="$PROJECT_DIR$/app/utils/navigatorParamCreator/utils/getSecondaryRoutingPath.js" />
+        <option value="$PROJECT_DIR$/app/scenes/sentences/index.js" />
+        <option value="$PROJECT_DIR$/theme/package.json" />
+        <option value="$PROJECT_DIR$/app/components/adBanner/index.js" />
+        <option value="$PROJECT_DIR$/app/utils/getInitialStoreState/index.js" />
+        <option value="$PROJECT_DIR$/app/store/index.js" />
+        <option value="$PROJECT_DIR$/app/index.js" />
+        <option value="$PROJECT_DIR$/theme/index.js" />
+        <option value="$PROJECT_DIR$/app/constants/scenes/index.js" />
+        <option value="$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js" />
       </list>
     </option>
   </component>
@@ -287,12 +319,13 @@
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/app/package.json" />
       <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/theme/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="549" />
+    <option name="y" value="405" />
+    <option name="width" value="1094" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -316,30 +349,7 @@
             <path>
               <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
               <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="reducer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cheerio_kernel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cheerio_kernel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="reducer" type="462c0819:PsiDirectoryNode" />
-              <item name="appState" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -348,26 +358,28 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value=",&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\store\actions" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\theme\multimedia" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\theme\jsonAssets" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\utils\getInitialStoreState" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\utils\navigatorParamCreator" />
       <recent name="C:\proyectos\react-native\cheerio_kernel\app" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\theme\multimedia\icons" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\utils" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\deprecated" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\store\reducer" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\store" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\theme" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\scenes" />
       <recent name="C:\proyectos\react-native\cheerio_kernel\app\components" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\components\AnimateImages\components\AnimateImageList" />
-      <recent name="C:\proyectos\react-native\cheerio_kernel\app\theme\jsonAssets" />
+      <recent name="C:\proyectos\react-native\cheerio_kernel\app\scenes\sentences\components\HOCSentences\components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,6 +410,14 @@
       <workItem from="1546014847403" duration="5764000" />
       <workItem from="1546020716783" duration="250000" />
       <workItem from="1546021275995" duration="7095000" />
+      <workItem from="1546104963460" duration="7477000" />
+      <workItem from="1546186759214" duration="3477000" />
+      <workItem from="1546193896331" duration="9103000" />
+      <workItem from="1546275637832" duration="2345000" />
+      <workItem from="1546448198835" duration="1917000" />
+      <workItem from="1546450126546" duration="6728000" />
+      <workItem from="1547926484258" duration="3151000" />
+      <workItem from="1547998141602" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Added a ReadMe">
       <created>1545324207890</created>
@@ -420,16 +440,23 @@
       <option name="project" value="LOCAL" />
       <updated>1545932691936</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Integration with redux. To discuss if this is the best approach">
+      <created>1546105056090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546105056090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43148000" />
+    <option name="totallyTimeSpent" value="77945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18124342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -443,11 +470,31 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.13449024" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2494577" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16859852" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37635574" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -459,61 +506,10 @@
     <MESSAGE value="Added a ReadMe" />
     <MESSAGE value="Started with the abstraction. It throws an error, so is not yet working" />
     <MESSAGE value="Intro screen works now" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intro screen works now" />
+    <MESSAGE value="Integration with redux. To discuss if this is the best approach" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integration with redux. To discuss if this is the best approach" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/splash.png" />
-    <entry file="file://$PROJECT_DIR$/app/theme/sentences/quotes.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/theme/sentences/jokes.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/theme/sentences/cheers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/theme/config/advertisement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/icon.png" />
-    <entry file="file://$PROJECT_DIR$/app/theme/multimedia/images/startScreen/face1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/theme/multimedia/images/startScreen/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="690">
-            <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ramda/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/ramda/es/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -528,10 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scenes/sentences/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/theme/multimedia/images/common/background.png">
+    <entry file="file://$PROJECT_DIR$/theme/multimedia/images/common/background.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/ImgBackground/components/Background/index.js">
@@ -556,13 +549,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scenes/about/index.js">
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/about/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/AnimateImages/components/AnimateImageList/index.js">
@@ -579,7 +569,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scenes/config/index.js">
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/config/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/ImgBackground/index.js">
@@ -589,160 +579,264 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/ConvoScreen/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#61#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scenes/start/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scenes/intro/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="83" selection-start-line="83" selection-end-line="86" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/reducer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/reducer/appState/selectors.js">
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/reducer/appState/selectors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/adBanner/index.js">
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/actions/appState/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-651">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-          <folding>
-            <element signature="e#118#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/theme/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/actions/appState/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="189">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#91#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/constants/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/reducer/appState/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/reducer/sentenceState/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/actions/index.js">
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/actions/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/actions/sentenceState/index.js">
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/reducer/appState/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/constants/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/reducer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/reducer/sentenceState/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
           <folding>
-            <element signature="e#0#91#0" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/utils/navigatorParamCreator/deprecated/index.js" />
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/actions/sentenceState/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/sentences/deprecated/start/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="36" lean-forward="true" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="36" lean-forward="true" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/intro/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/sentences/components/HOCSentences/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/sentences/components/HOCSentences/components/ConvoScreen/components/ButtonPart/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4263">
+          <caret line="211" column="10" selection-start-line="211" selection-end-line="211" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/store/reducer/sentenceState/selectors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/sentences/components/HOCSentences/components/ConvoScreen/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="73" column="45" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/ImageButton/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/sentences/routing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="87" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deprecated/startOver/scenes/sentences/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/ConvoScreen/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/config/advertisement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/actions/appState/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/utils/getRoutingPath.js" />
+    <entry file="file://$PROJECT_DIR$/app/scenes/sentences/routing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/NavigationBlock/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/utils/createSecondaryRoutingValues.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils/getInitialStoreState/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scenes/intro/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scenes/sentences/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/adBanner/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/constants/scenes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="42" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils/navigatorParamCreator/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,12 +1,12 @@
 import { createStore } from 'redux';
 import * as R          from 'ramda';
 import {rootReducer}   from './reducer/index'
-import getInitialStoreState from 'app/utils/getInitialStoreState';
+import navigatorParamCreator from 'app/utils/navigatorParamCreator/index';
 
 let store = null;
 
 const initStore = () => {
-    let initialState = getInitialStoreState();
+    let initialState = navigatorParamCreator.getInitialStoreState();
 
     store = createStore(rootReducer, initialState);
     console.log("store", store.getState())

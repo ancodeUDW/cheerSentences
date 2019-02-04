@@ -1,7 +1,7 @@
 import React from 'react';
 import * as R from 'ramda';
 import styled from "styled-components";
-import AnimateImageList from "./components/AnimateImageList";
+import AnimateImageList from "./components/AnimateImageList/index";
 
 
 /**

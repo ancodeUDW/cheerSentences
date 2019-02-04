@@ -1,15 +1,15 @@
 // https://market.mashape.com/andruxnet/random-famous-quotes
 import React                from 'react';
 import * as R               from 'ramda';
+import { connect }          from 'react-redux'
 import Expo                 from 'expo';
 import { Button, ScrollView, StyleSheet, Text, View, Image, TouchableOpacity, StatusBar  } from 'react-native';
 import { Dimensions }       from 'react-native'
 import styled               from "styled-components";
-import AnimateImages        from 'app/components/AnimateImages/index';
-import ImgBackground        from "../ImgBackground/index";
-import AdBanner             from 'app/components/adBanner/index';
-import NavigationBlock      from 'app/components/NavigationBlock/index'
 
+import AnimateImages        from 'app/components/AnimateImages/index';
+import AdBanner             from 'app/components/adBanner/index';
+import ImgBackground        from "app/components/ImgBackground/index";
 // import ImageButton          from 'app/components/ImageButton';
 // import ComicPanel           from 'app/components/ComicPanel';
 
@@ -21,6 +21,31 @@ const MAX_DRAGGABLE_CHARS = 141; // todo: aprox
 const AnimatedChar = styled(AnimateImages)`
   width: 90%;
 `;
+
+
+const GREY_PANEL_MARGINS = 25;
+
+
+
+// const GreyPanel = styled.View`
+//   width: ${Dimensions.get('window').width - GREY_PANEL_MARGINS*2};
+//   margin-left: ${GREY_PANEL_MARGINS}px;
+//   margin-right: ${GREY_PANEL_MARGINS}px;
+//   margin-bottom: ${GREY_PANEL_MARGINS}px;
+//   background-color: #bd8cbf;
+//   border-radius: 50px;
+//   display: flex;
+//   padding: 7px;
+//   justify-content: space-between;
+//   align-items: center;
+//   flex-direction: row;
+// `;
+
+// const StyledImageButton = styled(ImageButton)`
+//   width: 50px;
+//   height: 50px;
+// `;
+
 
 async function playSound(){
     // Todo: buggy, lets fix it in the future
@@ -40,17 +65,29 @@ async function playSound(){
 }
 
 
+import sentencesStateSelectors from 'app/store/reducer/sentenceState/selectors.js';
+
+const mapStateToProps = (state, ownProps) => {
+    let {sentenceId} = ownProps;
+    let {mascot, mascotTime, balloon, sentenceSource, title, background} = sentencesStateSelectors.getAllInfo(sentenceId, state);
+
+    console.log("map state to props", state);
+
+    return {
+        mascot,
+        mascotTime,
+        balloon,
+        sentenceSource,
+        title,
+        background
+    }
+};
+
 /**
  * Represents the Conversation Screens.
  *
- * {object} props: {
- *     {array or string} mascot, an array of image addresses that will be animated
- *     {array or number} mascotAniTime, time for the mascot to change frames
- *     {string} background, image that will be shown at the background
- *     {string} textMsg, message to be shown in the page
- *     {boolean} enableShare, let the user share the message when clicking in the bubble
- * }, has the wait time, the mascot images and the logo
- */
+ * {string} sentenceId: the id of the sentenceType elements
+ **/
 class ConvoScreen extends React.Component {
 
     constructor(props){
@@ -79,6 +116,8 @@ class ConvoScreen extends React.Component {
             textMsg,
             enableShare,
         } = this.props;
+
+        console.log("convo screen -1", {props: this.props, mascot});
 
         let {DRAGGABLE, TEXT_SIZE} = R.cond([
            [R.gte(MAX_NORMAL_CHARS),        () => ({DRAGGABLE: false,  TEXT_SIZE: '23px'})],
@@ -208,6 +247,8 @@ ConvoScreen.defaultProps = {
 };
 
 
-export default ConvoScreen
+
+
+export default connect(mapStateToProps, null)(ConvoScreen);
 
 

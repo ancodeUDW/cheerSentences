@@ -1,7 +1,7 @@
 import React       from 'react';
 import {StatusBar} from 'react-native';
 import styled      from "styled-components";
-import Background  from './components/Background';
+import Background  from './components/Background/index';
 
 export default class ImgBackground extends React.Component {
 
